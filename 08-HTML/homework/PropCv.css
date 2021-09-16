@@ -1,0 +1,84 @@
+html{
+    background-image: url(https://lh3.googleusercontent.com/proxy/xK59TxnMIm_VNoDsj_33kzx3Z-74kJMVu2pQAx4tpvZqY7kW2mCCCJtrWrBDFKPY1y60r01EsVR-3xSs6paz6QC4BoPVmQwAlbeRDJ06rAXoBNTZJRpYqCF486U2WDCZCpppFpgQHYA3dOW20yPwZaDKV_rvPzwXOuBq-F8f0Q);
+}
+
+#datosPersonales{
+    text-align: center;
+    justify-content: center;
+}
+
+h1{
+justify-self: center;
+text-align: center;
+color: rgb(0, 0, 0);
+margin:10px;
+padding: 10px;
+background-color: rgba(255, 255, 255, 0.767);
+}
+h2{
+text-align: center;
+padding: 10px;
+background-color:rgba(255, 255, 255, 0.699);
+}
+p {
+font-size: 20px;
+color: black;
+width: 500px;
+height: auto;
+font-family: Georgia;
+}
+
+img{
+width: 150px;
+border: 5px black solid;
+}
+
+#Foto{
+    text-align: center;
+
+}
+
+#dp{
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.726) ;
+    border: 8px black solid;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Educ{
+
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.726) ;
+    border: 2px black solid;
+    width: fit-content;
+   }
+   
+   #ExpLaboral{
+
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.726) ;
+    border: 2px black solid;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#Skills{
+        text-align: center;
+        background-color: rgba(255, 255, 255, 0.726) ;
+        border: 2px black solid;
+        width: fit-content;
+      margin-left: 900px;
+    }
+
+    #Canto{
+        text-align: center;
+        background-color: pink;
+        width: fit-content;
+        margin-left: auto;
+        margin-right: auto;
+    }
+#Gracias{
+    text-align: center;
+}
